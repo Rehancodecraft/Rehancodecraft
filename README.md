@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on My Semester Project
-- 📫 How to reach me ... "rehan.codecraft@gmail.com" or "+926567902"
+- 📫 How to reach me ... "rehan.codecraft@gmail.com" 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
